@@ -1,8 +1,9 @@
 {
   "name": "express-deployment",
   "version": "1.0.0",
+  "engineStrict": true,
   "engines": {
-    "node": ">=7.0"
+    "node": "7.4.0"
   },
   "description": "",
   "main": "index.js",
